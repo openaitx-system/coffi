@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=IGJoshua&project=coffi&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # coffi
 [![Clojars Project](https://img.shields.io/clojars/v/org.suskalo/coffi.svg)](https://clojars.org/org.suskalo/coffi)
 [![cljdoc badge](https://cljdoc.org/badge/org.suskalo/coffi)](https://cljdoc.org/d/org.suskalo/coffi)
